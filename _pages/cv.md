@@ -55,6 +55,6 @@ Publications
   
 Honors and Awards
 ======
-* Beihang University Merit Student  2018, 2019
-* Beihang University Second Prize Scholarship 2018, 2019, 2021
-* Beihang University Excellent Student Cadre 2017, 2018
+* Beihang University Merit Student -- *2018, 2019
+* Beihang University Second Prize Scholarship -- *2018, 2019, 2021
+* Beihang University Excellent Student Cadre -- *2017, 2018
