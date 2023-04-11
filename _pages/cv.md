@@ -54,9 +54,7 @@ Skills
 
 Publications
 ======
-  <ul>{% *3D Reconstruction ofAircraft Structures via 2D Multi-view Images* %}
-    {% [include archive-single-cv.html](https://spie.org/Publications/Proceedings/Paper/10.1117/12.2611439?SSO=1) %}
-  {% endfor %}</ul>
+
   
 Honors and Awards
 ======
