@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tianyou Zhang"
-  avatar           : "bio_my.png"
+  avatar           : "/images/bio_my.png"
   bio              : "Master at Beihang University(BUAA), expert in 3D visual measurement"
   location         : "Beijing, China"
   employer         :
