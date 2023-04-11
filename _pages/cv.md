@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% ../asserts//resume.pdf %}
+{% ../asserts/resume.pdf %}
 
 Education
 ======
