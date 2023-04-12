@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year master from [School of Instrumentation Science and Technology](https://www.yqgdxy.buaa.edu.cn), [Beihang Uniaversity(BUAA)](heeps://buaa.edu.cn), and will graduate in Jan. 2024 excepted. My research interests include 3D computer vision, visual measurement and interdisciplinarity with computer vision. I am applying Phd position about relavant areas.
+I am a second year master from School of Instrumentation Science and Technology, [Beihang Uniaversity(BUAA)](heeps://buaa.edu.cn), and I earned my B.S. degree in the same department. 3D computer vision, visual measurement and interdisciplinarity with computer vision are my research interests. I am applying Phd about relavant areas, and my expected graduate date is Jan.2024. More information could be found in the [CV](https://lukahola.github.io/tianyouzhang.github.io/cv/) page.
 
-You can find my CV here: [Tianyou Zhang's Curriculum Vitae](https://lukahola.github.io/tianyouzhang.github.io/asserts/resume.pdf).
+You can also find my CV here: [Tianyou Zhang's Curriculum Vitae](https://lukahola.github.io/tianyouzhang.github.io/asserts/resume.pdf).
 
-[Email](mailto:sy2117325@buaa.edu.cn)
