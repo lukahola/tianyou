@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tianyou Zhang"
-  avatar           : "bio_my.png"
+  avatar           : 
   bio              : "Master in Beihang University(BUAA)"
   location         : "Beijing, China"
   employer         :
