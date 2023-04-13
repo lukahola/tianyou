@@ -23,8 +23,8 @@ Experience
 * **6-DoF Pose Estimation and Stereo Depth Estimation** *2021.09--Present*
 
   *Python, PyTorch* Laboratory Project
-  * Accomplished tasks about monocular 6-DoF pose estimation of rigid objects from RGB images and depth measurement via two tracking cameras. Combined depth with surface normals of objects to predict their 6DoF pose in pose estiamtion task. Method was based on GDR-Net and reached 95.79% in ADD(-S) 0.1d, outperforming the baseline at 93.7%. Now my interests are about 3D computer vision, vision application in relavant areas.
-area.
+  * Accomplished tasks about monocular 6-DoF pose estimation of rigid objects from RGB images and depth measurement via two tracking cameras. Combined depth with surface normals of objects to predict their 6DoF pose in pose estiamtion task. Method was based on GDR-Net and reached 95.79% in ADD(-S) 0.1d, outperforming the baseline at 93.7%. Currently, relavant researches are carried on about binocular stereo vision measurement for aircraft.
+
 
 * **Key features extraction and reconstruction** *2020.03--2021.06*
  
@@ -32,11 +32,11 @@ area.
   * Accomplished tasks about extracting key structure features about airplane from single RGB images, and reconstructing the structure features from three views. Inspired from human pose estimation, I think about airplane’s key structures as human skeleton and annotate in the way of human pose estimation. In reconstruction process, multiple view geometry was applied in features fusion and got error at 1.469% in a new-defined Mean Per
 Structure Position Error(MPSPE).
 
-* **Swin-Pet: Swin-Transformer for Pet Classification** *2022.05*
- 
-  *Python, PyTorch* Individual Project
-  * Started at collecting images from the Internet and the dataset contained 39 categories of dogs and cats, and every category contained about 200 images. Evalution result was 96.7(ACC@1) and 99.6(ACC@5). This project was open-sourced in [here](https://github.com/lukahola/Swin-Pet).
- 
+Publications
+======
+* **3D Reconstruction of Aircraft Structures via 2D Multi-view Images**  
+in Tenth International Symposium on Precision Mechanical Measurements, 2021.11.19
+
 Skills
 ======
 * **Professional Competence**
@@ -51,9 +51,6 @@ Skills
 * **Languages**
   * English: IELTS 7.0
   * Native Language: Mandarin
-
-Publications
-======
 
   
 Honors and Awards
