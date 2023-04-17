@@ -1,5 +1,5 @@
 ---
-title: "3D Reconstruction of Aircraft Structures via 2D Multi-view Images"
+title: "3D Reconstruction of Aircraft Structures via 2D Multi-view Images(Oral)"
 collection: publications
 permalink: /publication/2021-11-19-paper-title-number-1
 excerpt: 'This paper is about key features extraction and multi-view 3D visual measurement.'
