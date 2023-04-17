@@ -34,7 +34,7 @@ Structure Position Error(MPSPE).
 
 Publications
 ======
-* **3D Reconstruction of Aircraft Structures via 2D Multi-view Images**  
+* **3D Reconstruction of Aircraft Structures via 2D Multi-view Images(Oral)**  
 in Tenth International Symposium on Precision Mechanical Measurements, 2021.11.19
 
 Skills
