@@ -23,7 +23,7 @@ Experience
 * **6-DoF Pose Estimation and Stereo Depth Estimation** *2021.09--Present*
 
   *Python, PyTorch* Laboratory Project
-  * Accomplished tasks about monocular 6-DoF pose estimation of rigid objects from RGB images and depth measurement via two tracking cameras. Combined depth with surface normals of objects to predict their 6DoF pose in pose estiamtion task. Method was based on GDR-Net and reached 95.79% in ADD(-S) 0.1d, outperforming the baseline at 93.7%. Currently, relavant researches are carried on about binocular stereo vision measurement for aircraft.
+  * Accomplished tasks about monocular 6-DoF pose estimation of rigid objects from RGB images and depth measurement via two tracking cameras. Combined depth with surface normals of objects to predict their 6-DoF pose in pose estiamtion task. Method was based on GDR-Net and reached 95.79% in ADD(-S) 0.1d, outperforming the baseline at 93.7%. Currently, relavant researches are carried on about binocular stereo vision measurement for aircraft.
 
 
 * **Key features extraction and reconstruction** *2020.03--2021.06*
