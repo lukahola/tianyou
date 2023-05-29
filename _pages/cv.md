@@ -13,24 +13,22 @@ Education
 ======
 * **M.S. in Instrumentation Science and Technology, Beihang University(BUAA)** *2021.09--Present*
   * GPA: 3.81 / 4
-  * Relevent Courses: Optimization Method(99), Multiple View Geometry in Computer Vision(94), Image Analysis and Recognition(90)
+  * Relevant Courses: Optimization Method(99), Multiple View Geometry in Computer Vision(94), Intelligence Sensing and Autonomous System(93)
 * **B.S. in Instrumentation Science and Technology, Beihang University(BUAA)** *2017.09--2021.07*
   * GPA: 3.72 / 4
-  * Relevent Courses: Automatic Control Theory(94), Engineering Optics(93), Digital Electronics Technology(97)
+  * Relevant Courses: Automatic Control Theory(94), Engineering Optics(93), Digital Electronics Technology(97)
 
 Experience
 ======
 * **6-DoF Pose Estimation and Stereo Depth Estimation** *2021.09--Present*
 
   *Python, PyTorch* Laboratory Project
-  * Accomplished tasks about monocular 6-DoF pose estimation of rigid objects from RGB images and depth measurement via two tracking cameras. Combined depth with surface normals of objects to predict their 6-DoF pose in pose estiamtion task. Method was based on GDR-Net and reached 95.79% in ADD(-S) 0.1d, outperforming the baseline at 93.7%. Currently, relavant researches are carried on about binocular stereo vision measurement for aircraft.
+  * Contribution in the first project was about monocular 6-DoF pose estimation of rigid objects from RGB images—combined depth with surface normals of objects to predict their 6-DoF pose in the pose estimation task. The method was based on GDR-Net and reached 95.79% in ADD(-S) 0.1d, outperforming the baseline at 93.7%. Currently, relevant research is carried on about reliable and accurate aircraft binocular stereo vision measurement.
 
-
-* **Key features extraction and reconstruction** *2020.03--2021.06*
+* **Multi-view Images Features Extraction and Reconstruction** *2020.03--2021.06*
  
-  *Python, PyTorch* Laboratory Project
-  * Accomplished tasks about extracting key structure features about airplane from single RGB images, and reconstructing the structure features from three views. Inspired from human pose estimation, I think about airplane’s key structures as human skeleton and annotate in the way of human pose estimation. In reconstruction process, multiple view geometry was applied in features fusion and got error at 1.469% in a new-defined Mean Per
-Structure Position Error(MPSPE).
+  *Python, PyTorch* Individual Project
+  * Work on extracting essential aeroplane structures from single RGB images and reconstructing the structures from three views. Inspired by human pose estimation, I think about aeroplanes’ critical structures as human skeletons and annotate them in the way of human pose estimation. In the reconstruction process, multiple view geometry was applied in features fusion and got an error at 1.469% in a novel-defined Mean Per Structure Position Error(MPSPE).
 
 Publications
 ======
@@ -58,3 +56,10 @@ Honors and Awards
 * Beihang University Merit Student  *2018, 2019*
 * Beihang University Second Prize Scholarship  *2018, 2019, 2021*
 * Beihang University Excellent Student Cadre  *2017, 2018*
+
+Interests
+======
+* Computer Vision: 3D computer vision about reconstruction and generalization, multi-view vision methods
+* Artificial Intelligence: Novel vision model to process images reliably, efficiently, intellectually and fair
+* CV with other areas: Collaboration between computer vision and natural language processing, augmented reality and human activity
+
