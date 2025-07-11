@@ -40,7 +40,7 @@ Structure Position Error(MPSPE).
 Publications
 ======
 * **Design and characterisation of the out-of-plane dielectric elastomer generator for wave energy harvesting**
-<p align="right">——Applied Spectroscopy. 2024;78(3):310-320.</p>
+<p align="right">——Ocean Engineering. Volume 339, Part 2, 15 November 2025, 122148.</p>
 
 <p align="right"> Xi Wang, Jinxin Wang, **Tianyou Zhang**, Jung-Che Chang, Siqian Li, Yao Zhang, Tianyi Zeng, Xin Dong  </p>
 
