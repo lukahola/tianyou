@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* **M.S. in Instrumentation Science and Technology, Beihang University(BUAA)** *2021.09--Present*
-  * GPA: 3.81 / 4
-  * Relevant Courses: Optimization Method(99), Multiple View Geometry in Computer Vision(94), Intelligence Sensing and Autonomous System(93)
+* **Ph.D in Manufacturing Engineering, University of Nottingham** *2024.07--Present*
+* 
+* **M.S. in Instrumentation Science and Technology, Beihang University(BUAA)** *2021.09--2024.01*
+
 * **B.S. in Instrumentation Science and Technology, Beihang University(BUAA)** *2017.09--2021.07*
-  * GPA: 3.72 / 4
-  * Relevant Courses: Automatic Control Theory(94), Engineering Optics(93), Digital Electronics Technology(97)
+
 
 Experience
 ======
