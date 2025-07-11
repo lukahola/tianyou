@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tianyou Zhang"
+title                    : "Tianyou Zhang(张天佑)"
 title_separator          : "-"
 name                     : &name "Tianyou Zhang"
-description              : &description "M.S. at Beihang University"
+description              : &description "Ph.D. at University of Nottingham"
 url                      : https://lukahola.github.io/tianyou/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lukahola.github.io/tianyou/"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tianyou Zhang"
   avatar           : "bio_my.png"
-  bio              : "M.S at Beihang University"
-  location         : "Beijing, China"
+  bio              : "Ph.D at University of Nottingham"
+  location         : "Nottingham, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "tianyoubuaa@gmail.com"
+  email            : "tianyou.zhang@nottingham.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  intersets        : 3D computer vision, application about CV
+  intersets        : 3D computer vision, Robotics
 
 # Reading Files
 include:
