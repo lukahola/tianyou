@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Ph.D in Manufacturing Engineering, University of Nottingham** *2024.07--Present*
-* 
+ 
 * **M.S. in Instrumentation Science and Technology, Beihang University(BUAA)** *2021.09--2024.01*
 
 * **B.S. in Instrumentation Science and Technology, Beihang University(BUAA)** *2017.09--2021.07*
